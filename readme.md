@@ -7,6 +7,6 @@ lekce5
 git status
 git add .
 git commit -m "zprava"
-git push -->
+git push/pull -->
 
 upravaaaaaaaaaaaaa
